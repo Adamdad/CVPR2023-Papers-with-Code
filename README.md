@@ -238,6 +238,11 @@ Clothing-Change Feature Augmentation for Person Re-Identification
 - Paper: https://arxiv.org/abs/2211.10655
 - Code: None
 
+**Diffusion Probabilistic Model Made Slim**
+
+- Paper: https://arxiv.org/abs/2211.17106
+- Code: None
+
 **Imagic: Text-Based Real Image Editing with Diffusion Models**
 
 - Homepage: https://imagic-editing.github.io/
